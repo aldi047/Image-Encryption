@@ -1,0 +1,8 @@
+Flask
+pillow
+pycryptodome
+scipy
+matplotlib
+seaborn
+sewar
+opencv-python
